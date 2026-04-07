@@ -51,7 +51,7 @@
 local _0x_v1 = {
     [10449761463] = "https://raw.githubusercontent.com/xploitforceofficial-stack/pinatpublic/refs/heads/main/public.lua", -- The Strongest Battlegrounds
     [98502499119821] = "https://raw.githubusercontent.com/xploitforceofficial-stack/pinatheavy3/refs/heads/main/3.lua", -- Heavyweight Fishing
-    [90148635862803] = "https://gitlua.tuffgv.my.id/raw/w-7" -- Survive the Apocalypse
+    [116139828947259] = "https://gitlua.tuffgv.my.id/raw/w-7" -- Survive the Apocalypse
 }
 
 local _0x_v2 = game.PlaceId
