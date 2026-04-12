@@ -111,7 +111,8 @@
 %@@@@@@@@@@@@@%%%@@%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%#####%%%%#%%%%%#%%%###%%#%%%%%%@%%%%%%%%%%%%%%%@@%#%@@@@@@@@@@@#%@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@%@@@@@@@@@@@%%%%%%%%%%%@@%%%%%%%%%%%%%%%%%%%%%######%%#%%%%%%%%%%%%%%%%%%###%%%%%%%%%##%%%%@@@%%%@@@@@@@%%%%%%@@@@@@@@@@@@@@@@@@@@%%%%%#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     PinatHub Loader
-    Join Community: https://chat.whatsapp.com/I8hG44FLgrRAwQcS3lvEft -- ]]
+    Join Community: https://chat.whatsapp.com/I8hG44FLgrRAwQcS3lvEft
+]] --
 
 local _0x_v1 = {
     [10449761463] = "https://raw.githubusercontent.com/xploitforceofficial-stack/pinatpublic/refs/heads/main/public.lua", -- The Strongest Battlegrounds
