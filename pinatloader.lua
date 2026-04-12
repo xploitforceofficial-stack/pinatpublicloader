@@ -119,7 +119,8 @@ local _0x_v1 = {
     [98502499119821] = "https://raw.githubusercontent.com/xploitforceofficial-stack/pinatheavy3/refs/heads/main/3.lua", -- Heavyweight Fishing
     [116139828947259] = "https://gitlua.tuffgv.my.id/raw/w-7", -- Survive the Apocalypse
     [13772394625] = "https://pinatbladeball-peotect.vercel.app/api/script.js", -- Blade Ball
-    [124473577469410] = "https://gitlua.tuffgv.my.id/raw/www-2" -- Be a Lucky Block
+    [124473577469410] = "https://gitlua.tuffgv.my.id/raw/www-2", -- Be a Lucky Block
+    [70845479499574] = "https://gitlua.tuffgv.my.id/raw/w-11" -- Bite By Night
 }
 
 local _0x_v2 = game.PlaceId
