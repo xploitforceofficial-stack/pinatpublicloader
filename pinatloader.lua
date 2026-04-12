@@ -118,7 +118,10 @@ local _0x_v1 = {
     [10449761463] = "https://raw.githubusercontent.com/xploitforceofficial-stack/pinatpublic/refs/heads/main/public.lua", -- The Strongest Battlegrounds
     [98502499119821] = "https://raw.githubusercontent.com/xploitforceofficial-stack/pinatheavy3/refs/heads/main/3.lua", -- Heavyweight Fishing
     [116139828947259] = "https://gitlua.tuffgv.my.id/raw/w-7", -- Survive the Apocalypse
-    [13772394625] = "https://pinatbladeball-peotect.vercel.app/api/script.js", -- Blade Ball
+    [90148635862803] = "https://gitlua.tuffgv.my.id/raw/w-7", -- Survive the Apocalypse (Lobby)
+    [13772394625] = "https://pinatbladeball-peotect.vercel.app/api/script.js", -- Blade Ball (Normal Server)
+    [15234596844] = "https://pinatbladeball-peotect.vercel.app/api/script.js", -- Blade Ball (Training Server)
+    [15144787112] = "https://pinatbladeball-peotect.vercel.app/api/script.js", -- Blade Ball (Duels Server)
     [124473577469410] = "https://gitlua.tuffgv.my.id/raw/www-2", -- Be a Lucky Block
     [70845479499574] = "https://gitlua.tuffgv.my.id/raw/w-11" -- Bite By Night
 }
