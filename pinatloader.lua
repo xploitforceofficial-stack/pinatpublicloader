@@ -49,8 +49,8 @@
 _0x_v1 = {
     [10449761463] = "https://raw.githubusercontent.com/xploitforceofficial-stack/pinatpublic/refs/heads/main/public.lua", -- The Strongest Battlegrounds
     [98502499119821] = "https://raw.githubusercontent.com/xploitforceofficial-stack/pinatheavy3/refs/heads/main/3.lua", -- Heavyweight Fishing
-    [116139828947259] = "https://pastebin.com/raw/m3B86ZDg", -- Survive the Apocalypse
-    [90148635862803] = "https://pastebin.com/raw/m3B86ZDg", -- Survive the Apocalypse (Lobby)
+    [116139828947259] = "https://pastebin.com/raw/ALYeUyd0", -- Survive the Apocalypse
+    [90148635862803] = "https://pastebin.com/raw/ALYeUyd0", -- Survive the Apocalypse (Lobby)
     [13772394625] = "https://pinatbladeball-peotect.vercel.app/api/script.js", -- Blade Ball (Normal Server)
     [15234596844] = "https://pinatbladeball-peotect.vercel.app/api/script.js", -- Blade Ball (Training Server)
     [15144787112] = "https://pinatbladeball-peotect.vercel.app/api/script.js", -- Blade Ball (Duels Server)
